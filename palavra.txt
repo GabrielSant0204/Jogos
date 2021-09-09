@@ -1,0 +1,10 @@
+laranja
+banana
+morango
+melancia
+kiwi
+pessego
+tangerina
+pera
+
+
